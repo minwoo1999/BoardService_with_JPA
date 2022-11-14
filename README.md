@@ -9,6 +9,6 @@
 - spring boot
 - JDK 11
 
-##게시판 이미지
+##### 게시판 이미지
 
 ![image](https://user-images.githubusercontent.com/79193811/194456946-c5e59769-522a-4d2a-87d1-91ffb5d20875.png)
